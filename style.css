@@ -1,0 +1,24 @@
+.one_element {
+    height: 300px;
+    width: 300px;
+    background-color: rgb(170, 146, 146);
+    margin-top: 50px;
+    /* margin: 50px; */
+
+    /* margin-top: 50px;
+    margin-right: 20px;
+    margin-bottom: 100px;
+    margin-left: 60px; */
+
+    /* margin: 50px 20px 100px 60px; */
+
+    /* margin: 0 auto; */
+}
+
+/* .one_element {
+    margin-bottom: 100px;
+}
+
+.two_element {
+    margin-top: 50px;
+} */
